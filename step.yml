@@ -1,7 +1,8 @@
 name: |
-  Update Cocoapods version
+  Update installed Cocoapods version to the latest one
 description: |
-  Updates the installed [Cocoapods](http://cocoapods.org/) version.
+  Updates the installed [Cocoapods](http://cocoapods.org/) version
+  to the latest available Cocoapods version.
 website: https://github.com/bitrise-io/steps-cocoapods-update
 source:
   git: https://github.com/bitrise-io/steps-cocoapods-update.git
