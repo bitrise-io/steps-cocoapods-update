@@ -1,8 +1,12 @@
 name: |
   Update installed Cocoapods version to the latest one
 description: |
-  Updates the installed [Cocoapods](http://cocoapods.org/) version
-  to the latest available Cocoapods version.
+  Updates the installed CocoaPods version
+  to the latest available CocoaPods version.
+  
+  For more information about CocoaPods, visit the [CocoaPods website](http://cocoapods.org/)
+
+  This Step is part of the [Open StepLib](http://www.steplib.com/), you can find its StepLib page [here](http://www.steplib.com/step/cocoapods-update)
 website: https://github.com/bitrise-io/steps-cocoapods-update
 source:
   git: https://github.com/bitrise-io/steps-cocoapods-update.git
