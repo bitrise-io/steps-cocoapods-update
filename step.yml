@@ -1,3 +1,4 @@
+---
 name: |
   Update installed Cocoapods version to the latest one
 description: |
@@ -5,7 +6,6 @@ description: |
   to the latest available CocoaPods version.
   
   For more information about CocoaPods, visit the [CocoaPods website](http://cocoapods.org/)
-
 website: https://github.com/bitrise-io/steps-cocoapods-update
 source:
   git: https://github.com/bitrise-io/steps-cocoapods-update.git
